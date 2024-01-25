@@ -1,0 +1,20 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: hsl(0, 14%, 99%);
+}
+.board{
+    margin-left: 45%;
+}
+table {
+    background-color: rgb(143, 227, 227);
+    border-collapse: collapse;
+    width: 30%;
+    margin: 20px auto;
+
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
